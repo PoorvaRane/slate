@@ -22,7 +22,7 @@ Add the following maven repository to the build.gradle. Please make sure that yo
 
 
 ```java
----Add to build.gradle---
+Add to build.gradle
 
 repositories {
     mavenCentral()
